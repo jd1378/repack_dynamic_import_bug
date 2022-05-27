@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "private": true,
   "scripts": {
-    "android": "react-native run-android",
+    "android": "react-native run-android --no-packager",
     "android-dev": "react-native run-android --no-packager && yarn start",
     "ios": "react-native run-ios",
     "start": "react-native webpack-start",
