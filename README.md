@@ -4,6 +4,11 @@ a new react native project created from "npx react-native init repack_dynamic_im
 
 and repack is setup to reproduce an issue regarding dynamic imports chunk loading
 
+
+# wheres the test takes place ?
+
+inside `index.js` in project root
+
 # how to test
 
 1. run packager
