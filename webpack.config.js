@@ -236,6 +236,7 @@ module.exports = {
       platform,
       devServerEnabled: devServer.enabled,
       remoteChunksOutput: path.join(__dirname, 'build', platform, 'remote'),
+      localChunks: [/.*/],
     }),
 
     /**
