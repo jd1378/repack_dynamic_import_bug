@@ -7,7 +7,7 @@ and repack is setup to reproduce an issue regarding dynamic imports chunk loadin
 
 # wheres the test takes place ?
 
-inside `index.js` in project root
+inside `index.js` in project root in `importLocale` function
 
 # how to test
 
